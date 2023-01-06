@@ -13,9 +13,9 @@ The website is made wholly in HTML and CSS only.
   
 ## Authors
 
+- [@AmodiBaakle](https://github.com/AmodiBaakle)
 - [@revakulkarni10](https://github.com/revakulkarni10)
 - [@jthorat10](https://github.com/jthorat10)
-- [@AmodiBaakle](https://github.com/AmodiBaakle)
 - [@Riya2511](https://github.com/Riya2511)
   
 ## Features
